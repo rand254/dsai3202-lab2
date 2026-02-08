@@ -1,9 +1,3 @@
-# DSAI3202 – Lab 2: Data Ingestion in Azure (Amazon Electronics)
-
-## Objective
-Ingest the Amazon Electronics dataset into Azure Storage and build an automated ingestion pipeline using Azure Data Factory (ADF) to transform raw JSON data into Parquet format partitioned by review year.
-
----
 
 ## Dataset
 - Amazon Reviews – Electronics (5-core)
