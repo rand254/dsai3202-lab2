@@ -182,9 +182,4 @@ Automate ingestion using scheduled triggers
 
 The pipeline is scalable, automated, and suitable for real-world data lake architectures.
 
-processed/
- └── reviews/
-     ├── review_year=1999/
-     ├── review_year=2000/
-     ├── review_year=2001/
-     └── ...
+
